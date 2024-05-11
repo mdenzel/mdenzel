@@ -9,4 +9,4 @@ Checkout my gists here: https://gist.github.com/mdenzel
 
 ### hg/mercurial
 
-Github can be used with hg, see https://github.com/mdenzel/linux_scripts/blob/master/hg-git-clone/hg-git-clone.sh
+Github can be used with hg, see [hg-git-clone.sh](https://gist.github.com/mdenzel/ca8c7d0177b71072ac99f1bc53e22192)
